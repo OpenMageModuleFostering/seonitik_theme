@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/SEONITIK_Theme",
+    "name": "OpenMageModuleFostering\/SEONITIK_Theme",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "SEONITIK - Free Magento Theme",
     "authors": [
-    {
-        "name": "Mage-World",
-        "email": "haint@mage-world.com"
-    }
-],
+        {
+            "name": "Mage-World",
+            "email": "haint@mage-world.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
